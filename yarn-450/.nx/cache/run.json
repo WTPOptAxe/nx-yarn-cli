@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx build mypackage",
+    "startTime": "2024-10-01T08:50:47.695Z",
+    "endTime": "2024-10-01T08:50:48.111Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "mypackage:build",
+      "target": "build",
+      "projectName": "mypackage",
+      "hash": "5170300328359308744",
+      "startTime": "2024-10-01T08:50:47.699Z",
+      "endTime": "2024-10-01T08:50:48.110Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}
